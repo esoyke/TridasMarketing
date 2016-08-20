@@ -1010,6 +1010,12 @@ img.alignright,
 	font-size: 20px;
 	padding-top: 10px;
 }
+#open-popup {
+  cursor: pointer;
+  cursor: -webkit-zoom-in;
+  cursor: -moz-zoom-in;
+  cursor: zoom-in; 
+}
 /* EBS enlarge image thumbnail upon hover */
 /*.thumbnail:hover {
     position:relative;
